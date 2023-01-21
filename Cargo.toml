@@ -9,4 +9,8 @@ edition = "2021"
 name = "linear"
 path = "search/linear.rs"
 
+[[bin]]
+name = "binary"
+path = "search/binary.rs"
+
 [dependencies]
