@@ -21,4 +21,8 @@ path = "sort/bubble.rs"
 name = "insertion"
 path = "sort/insertion.rs"
 
+[[bin]]
+name = "selection"
+path = "sort/selection.rs"
+
 [dependencies]
