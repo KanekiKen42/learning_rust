@@ -12,4 +12,7 @@ fn main() {
 	let mut arr = [1,4,3,2,7,5,6];
 	bubble(&mut arr);
 	println!("{:?}", arr);
+	let mut arr = ['c','a','d','f','b','e'];
+	bubble(&mut arr);
+	println!("{:?}", arr);
 }

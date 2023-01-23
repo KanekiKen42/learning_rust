@@ -17,4 +17,8 @@ path = "search/binary.rs"
 name = "bubble"
 path = "sort/bubble.rs"
 
+[[bin]]
+name = "insertion"
+path = "sort/insertion.rs"
+
 [dependencies]
